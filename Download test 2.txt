@@ -8,5 +8,5 @@
 
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec2 }
-lemida.biu.ac.il/course
+lemida.biu.ac.il
 app.docusign.com/api/accounts/619976db-c4eb-4cce-ad18-1d3879464d50/envelopes/a0f44669-2816-452f-ab4f-07dd3a3a2c3a/documents.pdf
